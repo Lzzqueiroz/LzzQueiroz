@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo Luan Queiroz, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciencias da Computação na UFF. Sou apaixonado por tecnologia e busco sempre aprimorar meus conhecimento
+Me chamo Luan Queiroz, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciencias da Computação na UFF. Sou apaixonado por tecnologia e busco sempre aprimorar meus conhecimentos por meio de cursos e bootcamps.
 
 ### 🤖 Linguagens e Tecnologias
 
